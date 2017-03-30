@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class ReverseInputStack {
+public class reverse {
 
     static Stack<String> StackWord;
     private static Scanner scanner;
